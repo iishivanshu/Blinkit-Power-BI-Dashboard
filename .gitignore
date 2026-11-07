@@ -1,0 +1,28 @@
+# Power BI temporary files
+*.pbit
+*.pbix.tmp
+*.pbix~RF*
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+
+# Office temporary files
+~$*
+*.tmp
+
+# VS Code
+.vscode/
+
+# IDE
+.idea/
+
+# Logs
+*.log
